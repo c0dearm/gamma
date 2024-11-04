@@ -51,7 +51,7 @@ fn main() {
 }
 ```
 
-By default, this library enables the `nn` feature that gives access to the `nn` module, which builds upon the auto-grad foundation of `Mushin` to deliver a set of **Deep Learning** utilities, such as activation functions, layers, losses and optimizers. If you don't really need that part and you are only insterested in the pure auto-grad functionality of this library, the `nn` module can be disabled with `default-features = false`. Here follows a brief example on how it works:
+By default, this library enables the `nn` feature that gives access to the `nn` module, which builds upon the auto-grad foundation of `Mushin` to deliver a set of **Deep Learning** utilities, such as activation functions, layers, losses and optimizers. If you don't really need that part and you are only interested in the pure auto-grad functionality of this library, the `nn` module can be disabled with `default-features = false`. Here follows a brief example on how it works:
 
 ```rust
 use mushin as mu;
