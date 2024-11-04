@@ -77,7 +77,7 @@ for _ in 0..5 {
 
 * If you find a vulnerability, bug or miss something, please [open a new issue](https://github.com/c0dearm/mushin/issues/new)
 * To introduce your changes into the codebase, submit a [pull request](https://github.com/c0dearm/mushin/pulls)
-* To discuss about possible improvements, suggestions and new fearures, [join us in Slack!](https://mushin-rs.slack.com)
+* To discuss about possible improvements, suggestions and new features, [join us in Slack!](https://mushin-rs.slack.com)
 
 Many thanks!
 
